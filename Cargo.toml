@@ -1,0 +1,8 @@
+[package]
+name = "word_vector_viz"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.16.1"
+bevy_panorbit_camera = "0.27.1"
